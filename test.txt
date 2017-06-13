@@ -1,3 +1,2 @@
 test remote github
-Creating a new branch is quick and simple.
-Creating a new branch is quick 2 simple.
+Creating a new branch is quick & simple.
