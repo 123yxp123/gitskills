@@ -1,2 +1,2 @@
-test remote github
-
+test remote githut
+Creating a new branch is quick or simple.
